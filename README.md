@@ -1,12 +1,14 @@
-# Workshop Topics 
+# Operating Systems
 
-What is an operating system?
+Workshop Topics:
 
-Processes
+What is an **operating system**?
 
-Threads
+**Processes**
 
-Memory Hierarchy
+**Threads**
+
+**Memory Hierarchy**
 
 Logical memory vs Physical memory
 
