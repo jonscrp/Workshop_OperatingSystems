@@ -13,6 +13,6 @@ Logical memory vs Physical memory
 POSIX 
 
 | Function | Brief description |
-|-----------|----------|
+|:-----------:|:----------:|
 | | |
 | | |
